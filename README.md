@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-I have created a few Tableau Dashboards using public datasets. All the tableau dashboards are stored in "dashboards" directory.
+I have created a few Tableau Dashboards using Tableau's Superstore sample dataset. All the tableau dashboards are stored in "tableau" directory.
 
 ## Dashboards ##
 
@@ -24,7 +24,6 @@ This dashboard displays correlation between profit & loss.
 ![Overall performance](Images\Overall_Performance.png)
 
 This dashboard displays correlation between Sale, Discount, and profit. 
-
 
 
 

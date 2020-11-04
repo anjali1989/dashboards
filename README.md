@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-I have created a few Tableau Dashboards using public datasets. All the tableau dashboards are stored in "dashboards" directory.
+I have created a few Tableau Dashboards using public datasets. All the tableau dashboards are stored in "tableau" directory.
 
 ## Dashboards ##
 

@@ -1,8 +1,10 @@
 #  Sales Performance Dashboards
 
+## Overview 
+
 I have created a few Tableau Dashboards using public datasets. All the tableau dashboards are stored in "dashboards" directory.
 
-# Dashboards
+## Dashboards
 
 1. Yearly sale by category:
 ![Yearly sale by category](images\Yearly Sale By Category.png)
